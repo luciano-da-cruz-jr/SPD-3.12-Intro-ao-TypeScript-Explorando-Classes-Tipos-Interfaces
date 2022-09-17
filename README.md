@@ -2,7 +2,7 @@
 
 ### ✏️ Introdução TypeScript - Explorando classes, tipos e interfaces JS (Introduction to TypeScript - Exploring JS Classes, Types, and Interfaces) 📚⏳🤔😉
 
-Neste repositório contém liçoes praticas relacionadas relacionados ao TypeScript. (This repository contains practical lessons related to TypeScript.)
+Neste repositório contém liçoes praticas relacionados ao TypeScript. (This repository contains practical lessons related to TypeScript.)
 
 ### Começando (Getting started)
 
