@@ -4,6 +4,19 @@
 
 Neste repositório contém liçoes praticas relacionadas relacionados ao TypeScript. (This repository contains practical lessons related to TypeScript.)
 
+### Começando (Getting started)
+
+- Certifique-se de ter o [NodeJS](https://nodejs.org/en/) instalado em sua máquina. (Make sure you have [NodeJS](https://nodejs.org/en/) installed on your machine.)
+
+**No terminal, digite (In the terminal, type) :**
+
+**Atenção: Enter a cada linha digitada (Enter a each line typed)!**
+
+```bash
+npm i
+npm run start
+```
+
 ### Links úteis (Useful links)
 + https://dio.me (Bootcamp in mode Courses)
 + https://drive.google.com/file/d/10k8ItklRUcBfWlGOLFP41DwL7202lBfl/view?usp=sharing (node_modules)
